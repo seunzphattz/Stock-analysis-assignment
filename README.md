@@ -1,2 +1,2 @@
-# Stock-analysis-assignment
+# Stock-analysis
 stocks
